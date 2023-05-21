@@ -27,6 +27,9 @@
 
 ## OUTPUT:
 ![image](https://github.com/Pavithraramasaamy/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118596964/05a64947-e400-4a61-9f3b-4f6e3661d5ff)
+
+
+
 Y-Axis Base: The Y-axis base is the foundational component of the printer's Y-axis assembly. It serves as the mounting platform for other Y-axis components, such as smooth rods, bearings, motors, and the print bed. The Y-axis base provides stability and support to ensure accurate movement along the Y-axis.
 
 Z-Axis Frame: The Z-axis frame is the structural framework that supports and houses the components involved in the Z-axis assembly. It typically includes the smooth rods, linear bearings, threaded rods, and the print head or extruder assembly. The Z-axis frame ensures stability and proper alignment for vertical movement.
