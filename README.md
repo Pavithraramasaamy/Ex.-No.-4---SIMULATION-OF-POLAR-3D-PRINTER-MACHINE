@@ -60,8 +60,8 @@ Filament: Filament is the material used in 3D printing, usually in the form of a
 
 ## Output:
 
-### Name:212222230106
-### Register Number:Pavithra R
+### Name:Pavithra R
+### Register Number:212222230106
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
